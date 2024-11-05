@@ -1,7 +1,3 @@
-#author: Ksenia Sayfulina
-
-# save tables with p-values, which are used to build topomaps: white topomaps on which sensors with reliable significance of factors are marked
-
 library(reshape2)
 library(data.table)
 library(ggplot2)
